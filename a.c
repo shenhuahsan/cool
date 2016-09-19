@@ -15,3 +15,4 @@ git remote add origin https://github.com/shenhuahsan/cool.git
 git push -u origin master
 }
 # cool
+# cool
