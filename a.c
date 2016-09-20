@@ -7,11 +7,11 @@ int main()
 
 
 
-echo "# cool" >> a.c
+echo "# cool" >> b.c
 git init
-git add README.md
+git add b.c
 git commit -m "first commit"
-git remote add origin https://github.com/shenhuahsan/cool.git
+git remote add origin https://github.com/shenhuashan/cool.git
 git push -u origin master
 }
 # cool
