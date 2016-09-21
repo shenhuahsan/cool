@@ -1,3 +1,7 @@
 # cool
 # cool
-# hello master
+<<<<<<< HEAD
+# hello,everybody!
+=======
+# hello,everybody!
+>>>>>>> feature1
